@@ -1,4 +1,4 @@
-<p style="width:100%; height: 50px; display:flex;justify-content: space-evenly">
+<p align="center">
   <img src="https://static.wikia.nocookie.net/logopedia/images/7/7a/Android_2019.svg" width="200" alt="AndroidLogo"/>
     <img src="https://static.wikia.nocookie.net/logopedia/images/4/46/IOS_11.svg" width="100" alt="IOS Logo"/>
     <img src="https://static.wikia.nocookie.net/logopedia/images/1/1f/Windows_Phone_2012.svg" width="200" alt="IOS Logo"/>
